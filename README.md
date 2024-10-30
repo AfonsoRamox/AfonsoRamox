@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfonsoRamox
 - 🌱 I’m currently learning Computer Engineering (3rd Year)
-- 📫 How to reach me: 2221868@my.ipleiria.pt, afonsoramox1@gmail.com
+- 📫 How to reach me: 2221868@my.ipleiria.pt
 
 
 <!---
