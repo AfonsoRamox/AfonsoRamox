@@ -1,6 +1,15 @@
+# 🏄‍♂️ Afonso Ramos
+
+**`Young Developer `**
+
 - 👋 Hi, I’m @AfonsoRamox
 - 🌱 I’m currently learning Computer Engineering (3rd Year)
 - 📫 How to reach me: 2221868@my.ipleiria.pt
+
+
+---
+
+
 
 
 ### 🧰 Languages and Tools
