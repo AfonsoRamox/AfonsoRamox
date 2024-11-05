@@ -1,6 +1,5 @@
 # 🏄‍♂️ Afonso Ramos
 
----
 
 **`Young Developer `**
 
